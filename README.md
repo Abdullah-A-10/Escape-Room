@@ -21,5 +21,5 @@
    java VirtualEscapePuzzle
 ---
 ## Author
-Abdullah Aamir | Java Enthusiast
+👨‍💻 Abdullah Aamir | Java Enthusiast
 
