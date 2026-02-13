@@ -63,7 +63,7 @@ public class VirtualEscapePuzzle {
         }
 
         if (count == 0) {
-            System.out.println("All rooms are solved !");
+            System.out.println("All rooms are solved ! \nCongratulations! You have escaped the Virtual Escape Room!..");
         }
     }
 }
